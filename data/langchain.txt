@@ -1,0 +1,3 @@
+LangChain is a framework for building applications powered by language models. 
+It allows chaining of multiple components such as LLMs, vector databases, memory, and tools like search or APIs. 
+Retrieval-Augmented Generation (RAG) enhances chatbot performance by retrieving relevant documents to ground the model’s responses.
